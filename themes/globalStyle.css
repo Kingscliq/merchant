@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* .MuiStepLabel-iconContainer {
+  background-image: url('../../public/assets/step-icon-base.svg') !important;
+  width: 20px;
+  height: 20px;
+  flex-shrink: 0;
+}
+
+.MuiSvgIcon-root {
+  display: none !important;
+} */
